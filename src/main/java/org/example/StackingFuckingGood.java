@@ -64,10 +64,3 @@ public class StackingFuckingGood {
                 '}';
     }
 }
-
-/*
-push
-pop
-peek
-min
- */
